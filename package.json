@@ -4,7 +4,8 @@
   "description": "testing jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "sonar-scanner": "node_modules/sonar-scanner/bin/sonar-scanner"
   },
   "author": "Tommy Toban",
   "license": "ISC",
