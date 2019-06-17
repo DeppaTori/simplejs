@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "sonar-scanner": "^3.1.0",
+    "sonarqube-scanner": "^2.4.1"
   }
 }
